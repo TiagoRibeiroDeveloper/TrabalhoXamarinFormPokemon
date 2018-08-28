@@ -1,4 +1,4 @@
 # TrabalhoXamarinFormPokemon
-Api utilizada : https://api.chucknorris.io/
+Api utilizada : https://pokeapi.co/
 
 Biblioteca utilizada : NewtonSoft
